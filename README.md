@@ -9,6 +9,20 @@ Bienvenue dans la bêta d'Hynos !
 Pour profiter de la bêta d'hynos, rien de plus simple !
 
 
-Tout d'abord, clique ici, sur le .apk: 
+Tout d'abord, clique ici, sur le .apk:
 
-Ensuite, clique sur télécharger juste ici: 
+
+![Logo](/images/click-apk.png)
+## Comment télécharger hynos ?
+
+Pour profiter de la bêta d'hynos, rien de plus simple !
+
+
+Tout d'abord, clique ici, sur le .apk:
+
+
+
+Ensuite, clique sur télécharger juste ici:
+
+![Logo](/images/click-apk.png)
+![Logo](/images/download-apk.png)
